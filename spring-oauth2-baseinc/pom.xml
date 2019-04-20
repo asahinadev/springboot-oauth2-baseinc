@@ -8,10 +8,10 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example.spring.google</groupId>
-	<artifactId>spring-oauth2-google</artifactId>
+	<groupId>com.example.spring.baseinc</groupId>
+	<artifactId>spring-oauth2-baseinc</artifactId>
 	<version>0.0.1</version>
-	<name>spring-oauth2-google</name>
+	<name>spring-oauth2-baseinc</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
