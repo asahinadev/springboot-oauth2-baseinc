@@ -1,4 +1,4 @@
-package com.example.spring.baseinc.oauth.user;
+package com.example.spring.baseinc.oauth2.user;
 
 import java.util.Arrays;
 import java.util.HashMap;

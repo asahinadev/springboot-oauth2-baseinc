@@ -7,7 +7,7 @@ import org.springframework.security.config.annotation.web.builders.WebSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 
-import com.example.spring.baseinc.oauth.user.BaseincUser;
+import com.example.spring.baseinc.oauth2.user.BaseincUser;
 
 @Configuration
 @EnableWebSecurity
